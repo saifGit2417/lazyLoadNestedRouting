@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Component5 = () => {
   return (
-    <div>Component5</div>
-  )
-}
+    <div>
+      <h1>Component5</h1>
+    </div>
+  );
+};
 
-export default Component5
+export default Component5;
